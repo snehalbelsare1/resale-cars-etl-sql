@@ -1,4 +1,4 @@
-# Resale Cars ETL Project (SQL Server)
+# Automated Sales & Pricing Data Warehouse (SQL Server)
 
 ## Overview
 This project demonstrates an end-to-end **manual ETL pipeline** built using **SQL Server and Excel**.  
